@@ -14,8 +14,10 @@ namespace CrownAndAnchorGame
             // Init a new instance of logger for logging to text file and console.
             Log.Logger = new LoggerConfiguration()
                 .Enrich.FromLogContext()
+#if DEBUG
                 .WriteTo.ColoredConsole()
-                .WriteTo.RollingFile(@"C:\Log-{Date}.txt")
+#endif
+                .WriteTo.RollingFile(@"Log-{Date}.txt")
                 .CreateLogger();
 
             Log.Information(
