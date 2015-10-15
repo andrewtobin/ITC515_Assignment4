@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CrownAndAnchorGame.Dice">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <AssociationLine Name="CurrentValue" Type="CrownAndAnchorGame.DiceValue" FixedFromPoint="true">
+      <Path>
+        <Point X="4" Y="4.75" />
+        <Point X="5.5" Y="4.75" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="RandomValue" Type="CrownAndAnchorGame.DiceValue" FixedFromPoint="true">
+      <Path>
+        <Point X="4" Y="3.812" />
+        <Point X="5.5" Y="3.812" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAgAAAAAABAQAAgAAACAAAAAAgAAEAAIAA=</HashCode>
+      <FileName>Dice.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="CurrentValue" />
+      <Property Name="RandomValue" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="CrownAndAnchorGame.Game">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="dice" Type="CrownAndAnchorGame.Dice" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.969" Y="1.796" />
+        <Point X="4.969" Y="3.062" />
+        <Point X="4" Y="3.062" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="CurrentDiceValues" Type="CrownAndAnchorGame.DiceValue">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.008" Y="0.277" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="values" Type="CrownAndAnchorGame.DiceValue">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.671" Y="0.289" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAQAAAAAACAAAAAAQAAAAAA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="dice" />
+      <Field Name="values" />
+      <Property Name="CurrentDiceValues" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="CrownAndAnchorGame.BelowLimitException">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrownAndAnchorGame.Player">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAEAAhAAQQIACEEAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CrownAndAnchorGame.Program">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="CrownAndAnchorGame.DiceValue">
+    <Position X="5.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACAAAABQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Dice.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
