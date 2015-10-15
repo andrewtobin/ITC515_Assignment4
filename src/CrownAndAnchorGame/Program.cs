@@ -13,6 +13,7 @@ namespace CrownAndAnchorGame
         {
             // Init a new instance of logger for logging to text file and console.
             Log.Logger = new LoggerConfiguration()
+                .Enrich.FromLogContext()
                 .WriteTo.ColoredConsole()
                 .WriteTo.RollingFile(@"C:\Log-{Date}.txt")
                 .CreateLogger();
@@ -90,20 +91,20 @@ namespace CrownAndAnchorGame
                     } //for
 
                     Console.WriteLine("Win count = {0}, Lose Count = {1}, {2:0.00}", winCount, loseCount,
-                        (float) winCount/(winCount + loseCount));
+                        (float)winCount / (winCount + loseCount));
                     totalWins += winCount;
                     totalLosses += loseCount;
 
                     string ans = Console.ReadLine();
                     if (ans.Equals("q")) break;
                 } //while true
-                Console.WriteLine("Overall win rate = {0}%", (float) (totalWins*100)/(totalWins + totalLosses));
+                Console.WriteLine("Overall win rate = {0}%", (float)(totalWins * 100) / (totalWins + totalLosses));
                 Console.ReadLine();
             }
             catch (Exception ex)
             {
-                Log.Fatal(ex, "Quit Application by force\n\n\n\n");    
+                Log.Fatal(ex, "Quit Application by force\n\n\n\n");
             }
-    } 
+        }
     }
 }

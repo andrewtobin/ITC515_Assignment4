@@ -66,12 +66,14 @@ namespace CrownAndAnchorGame
             }
 
             int winnings = matches * bet;
+
             if (matches > 0)
             {
                 player.receiveWinnings(winnings);
             }
 
             Log.Information("Winnings are {Winnings}", winnings);
+            Log.Information("Player's Balance is now {Balance}", player.Balance);
 
             return winnings;
         }

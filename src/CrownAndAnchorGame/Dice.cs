@@ -39,7 +39,7 @@ namespace CrownAndAnchorGame
             return VALUE_REPR_MAP[diceValue];
         }
 
-        private DiceValue currentValue;
+        internal DiceValue currentValue;
         public DiceValue CurrentValue
         {
             get { return currentValue; }

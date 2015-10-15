@@ -70,5 +70,10 @@ namespace CrownAndAnchorGame
         {
             return string.Format("Player: {0}, Balance: {1}, Limit: {2}", name, balance, limit);
         }
+
+        public void returnBet(int bet)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

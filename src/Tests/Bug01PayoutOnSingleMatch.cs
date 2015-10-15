@@ -19,6 +19,10 @@ namespace Tests
             var die2 = Substitute.For<Dice>();
             var die3 = Substitute.For<Dice>();
 
+            die1.currentValue = DiceValue.ANCHOR;
+            die2.currentValue = DiceValue.HEART;
+            die3.currentValue = DiceValue.HEART;
+
             DiceValue pick = DiceValue.ANCHOR;
             int bet = 10;
             int winnings = 0;
@@ -78,5 +82,33 @@ namespace Tests
             player.Received().receiveWinnings(winnings);
         }
 
+        [Fact]
+        public void BugFixForReturningStakeWhenWon()
+        {
+            var die1 = Substitute.For<Dice>();
+            var die2 = Substitute.For<Dice>();
+            var die3 = Substitute.For<Dice>();
+
+            die1.currentValue = DiceValue.ANCHOR;
+            die2.currentValue = DiceValue.HEART;
+            die3.currentValue = DiceValue.HEART;
+
+            DiceValue pick = DiceValue.ANCHOR;
+            int bet = 10;
+            int winnings = 0;
+            int funds = 100;
+
+            var player = Substitute.For<Player>("Test", funds);
+
+            var game = new Game(die1, die2, die3);
+
+            winnings = game.playRound(player, pick, bet);
+
+            player.Received().returnBet(bet);            
+
+
+            Assert.Equal(bet, winnings);
+            Assert.Equal(funds + bet, player.Balance);
+        }
     }
 }
