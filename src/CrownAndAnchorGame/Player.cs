@@ -73,7 +73,7 @@ namespace CrownAndAnchorGame
 
         public void returnBet(int bet)
         {
-            throw new NotImplementedException();
+            balance = balance + bet;
         }
     }
 }

@@ -104,8 +104,7 @@ namespace Tests
 
             winnings = game.playRound(player, pick, bet);
 
-            player.Received().returnBet(bet);            
-
+            player.Received().returnBet(Arg.Is(bet));            
 
             Assert.Equal(bet, winnings);
             Assert.Equal(funds + bet, player.Balance);

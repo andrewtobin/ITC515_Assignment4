@@ -70,6 +70,7 @@ namespace CrownAndAnchorGame
             if (matches > 0)
             {
                 player.receiveWinnings(winnings);
+                player.returnBet(bet);
             }
 
             Log.Information("Winnings are {Winnings}", winnings);
