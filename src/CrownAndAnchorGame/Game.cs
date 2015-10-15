@@ -8,8 +8,8 @@ namespace CrownAndAnchorGame
 {
     public class Game
     {
-        private readonly List<Dice> dice;
-        private readonly List<DiceValue> values;
+        internal readonly List<Dice> dice;
+        internal readonly List<DiceValue> values;
 
         public IList<DiceValue> CurrentDiceValues
         {
