@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Serilog;
+using Serilog.Context;
+using Serilog.Core.Enrichers;
 
 namespace CrownAndAnchorGame
 {
@@ -33,17 +36,33 @@ namespace CrownAndAnchorGame
 
         public int playRound(Player player, DiceValue pick, int bet)
         {
+            using (LogContext.PushProperties(new PropertyEnricher("Player", player, true)))
+            {
+                Log.Information("Player {Name} has bet {Bet} on {Pick}\tBalance: {Balance}", player.Name, bet, pick, player.Balance);
+            }
+
             if (player == null) throw new ArgumentException("Player cannot be null");
             if (player == null) throw new ArgumentException("Pick cannot be null");
             if (bet < 0) throw new ArgumentException("Bet cannot be negative");
 
+            Log.Information("Deducting bet");
             player.takeBet(bet);
+            Log.Information("Balance: {Balance}", player.Balance);
 
             int matches = 0;
             for (int i = 0; i < dice.Count; i++)
             {
                 dice[i].roll();
-                if (values[i].Equals(pick)) matches += 1;
+                Log.Information("Dice {Number} is a {Roll}", i, values[i]);
+                if (values[i].Equals(pick))
+                {
+                    matches += 1;
+                    Log.Information("Match!");
+                }
+                else
+                {
+                    Log.Information("Not a Match!");
+                }
             }
 
             int winnings = matches * bet;
@@ -51,6 +70,8 @@ namespace CrownAndAnchorGame
             {
                 player.receiveWinnings(winnings);
             }
+
+            Log.Information("Winnings are {Winnings}", winnings);
 
             return winnings;
         }
