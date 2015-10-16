@@ -2,16 +2,16 @@
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="CrownAndAnchorGame.Dice">
     <Position X="2.5" Y="2.75" Width="1.5" />
-    <AssociationLine Name="CurrentValue" Type="CrownAndAnchorGame.DiceValue" FixedFromPoint="true">
-      <Path>
-        <Point X="4" Y="4.75" />
-        <Point X="5.5" Y="4.75" />
-      </Path>
-    </AssociationLine>
     <AssociationLine Name="RandomValue" Type="CrownAndAnchorGame.DiceValue" FixedFromPoint="true">
       <Path>
         <Point X="4" Y="3.812" />
         <Point X="5.5" Y="3.812" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="CurrentValue" Type="CrownAndAnchorGame.DiceValue" FixedFromPoint="true">
+      <Path>
+        <Point X="4" Y="4.75" />
+        <Point X="5.5" Y="4.75" />
       </Path>
     </AssociationLine>
     <TypeIdentifier>
@@ -19,8 +19,8 @@
       <FileName>Dice.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
-      <Property Name="CurrentValue" />
       <Property Name="RandomValue" />
+      <Property Name="CurrentValue" />
     </ShowAsAssociation>
   </Class>
   <Class Name="CrownAndAnchorGame.Game">
@@ -32,14 +32,14 @@
         <Point X="4" Y="3.062" />
       </Path>
     </AssociationLine>
-    <AssociationLine Name="CurrentDiceValues" Type="CrownAndAnchorGame.DiceValue">
-      <MemberNameLabel ManuallyPlaced="true">
-        <Position X="0.008" Y="0.277" />
-      </MemberNameLabel>
-    </AssociationLine>
     <AssociationLine Name="values" Type="CrownAndAnchorGame.DiceValue">
       <MemberNameLabel ManuallyPlaced="true">
         <Position X="-0.671" Y="0.289" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="CurrentDiceValues" Type="CrownAndAnchorGame.DiceValue">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.008" Y="0.277" />
       </MemberNameLabel>
     </AssociationLine>
     <TypeIdentifier>
@@ -62,14 +62,14 @@
   <Class Name="CrownAndAnchorGame.Player">
     <Position X="7.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAEAAAEAAhAAQQIACEEAAAAAAAAAgAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAEAAAEAAhAAQQIACEEAAAAAAAIAgAAAAA=</HashCode>
       <FileName>Player.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="CrownAndAnchorGame.Program">
     <Position X="2.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAAAABAAAAABAAACAA=</HashCode>
       <FileName>Program.cs</FileName>
     </TypeIdentifier>
   </Class>
