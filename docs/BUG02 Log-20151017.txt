@@ -1,0 +1,1468 @@
+﻿2015-10-17 01:44:28.082 +11:00 [Information] ----------------------------------------------
+Starting new instance at 17/10/15 1:44:28 AM
+----------------------------------------------
+
+
+2015-10-17 01:44:28.121 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 100
+2015-10-17 01:44:28.134 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.134 +11:00 [Information] Balance: 95
+2015-10-17 01:44:28.134 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.134 +11:00 [Information] Match!
+2015-10-17 01:44:28.135 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.135 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.135 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.135 +11:00 [Information] Match!
+2015-10-17 01:44:28.135 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.135 +11:00 [Information] Player's Balance is now 110
+2015-10-17 01:44:28.135 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 110
+2015-10-17 01:44:28.135 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.135 +11:00 [Information] Balance: 105
+2015-10-17 01:44:28.135 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.135 +11:00 [Information] Match!
+2015-10-17 01:44:28.135 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.135 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.135 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.135 +11:00 [Information] Match!
+2015-10-17 01:44:28.135 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.135 +11:00 [Information] Player's Balance is now 120
+2015-10-17 01:44:28.136 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 120
+2015-10-17 01:44:28.136 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.136 +11:00 [Information] Balance: 115
+2015-10-17 01:44:28.136 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.136 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.136 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.136 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.136 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.136 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.136 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.136 +11:00 [Information] Player's Balance is now 115
+2015-10-17 01:44:28.136 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 115
+2015-10-17 01:44:28.136 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.136 +11:00 [Information] Balance: 110
+2015-10-17 01:44:28.136 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.136 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.136 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.136 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.136 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.136 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.136 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.136 +11:00 [Information] Player's Balance is now 110
+2015-10-17 01:44:28.136 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 110
+2015-10-17 01:44:28.136 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.136 +11:00 [Information] Balance: 105
+2015-10-17 01:44:28.136 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.136 +11:00 [Information] Match!
+2015-10-17 01:44:28.136 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.136 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.136 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.136 +11:00 [Information] Match!
+2015-10-17 01:44:28.136 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.136 +11:00 [Information] Player's Balance is now 120
+2015-10-17 01:44:28.136 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 120
+2015-10-17 01:44:28.137 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.137 +11:00 [Information] Balance: 115
+2015-10-17 01:44:28.137 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.137 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.137 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.137 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.137 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.137 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.137 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.137 +11:00 [Information] Player's Balance is now 115
+2015-10-17 01:44:28.137 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 115
+2015-10-17 01:44:28.137 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.137 +11:00 [Information] Balance: 110
+2015-10-17 01:44:28.137 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.137 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.137 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.137 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.137 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.137 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.137 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.137 +11:00 [Information] Player's Balance is now 110
+2015-10-17 01:44:28.137 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 110
+2015-10-17 01:44:28.137 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.137 +11:00 [Information] Balance: 105
+2015-10-17 01:44:28.137 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.137 +11:00 [Information] Match!
+2015-10-17 01:44:28.137 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.137 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.137 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.137 +11:00 [Information] Match!
+2015-10-17 01:44:28.137 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.137 +11:00 [Information] Player's Balance is now 120
+2015-10-17 01:44:28.138 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 120
+2015-10-17 01:44:28.138 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.138 +11:00 [Information] Balance: 115
+2015-10-17 01:44:28.138 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.138 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.138 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.138 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.138 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.138 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.138 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.138 +11:00 [Information] Player's Balance is now 115
+2015-10-17 01:44:28.138 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 115
+2015-10-17 01:44:28.138 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.138 +11:00 [Information] Balance: 110
+2015-10-17 01:44:28.138 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.138 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.138 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.138 +11:00 [Information] Match!
+2015-10-17 01:44:28.138 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.138 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.138 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.138 +11:00 [Information] Player's Balance is now 120
+2015-10-17 01:44:28.138 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 120
+2015-10-17 01:44:28.138 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.138 +11:00 [Information] Balance: 115
+2015-10-17 01:44:28.138 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.138 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.138 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.138 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.138 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.138 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.138 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.138 +11:00 [Information] Player's Balance is now 115
+2015-10-17 01:44:28.139 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 115
+2015-10-17 01:44:28.139 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.139 +11:00 [Information] Balance: 110
+2015-10-17 01:44:28.139 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.139 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.139 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.139 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.139 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.139 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.139 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.139 +11:00 [Information] Player's Balance is now 110
+2015-10-17 01:44:28.140 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 110
+2015-10-17 01:44:28.140 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.140 +11:00 [Information] Balance: 105
+2015-10-17 01:44:28.140 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.140 +11:00 [Information] Match!
+2015-10-17 01:44:28.140 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.140 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.140 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.140 +11:00 [Information] Match!
+2015-10-17 01:44:28.140 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.140 +11:00 [Information] Player's Balance is now 120
+2015-10-17 01:44:28.140 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 120
+2015-10-17 01:44:28.140 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.140 +11:00 [Information] Balance: 115
+2015-10-17 01:44:28.140 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.141 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.141 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.141 +11:00 [Information] Match!
+2015-10-17 01:44:28.141 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.141 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.141 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.141 +11:00 [Information] Player's Balance is now 125
+2015-10-17 01:44:28.141 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 125
+2015-10-17 01:44:28.141 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.141 +11:00 [Information] Balance: 120
+2015-10-17 01:44:28.141 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.141 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.141 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.141 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.141 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.141 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.141 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.141 +11:00 [Information] Player's Balance is now 120
+2015-10-17 01:44:28.142 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 120
+2015-10-17 01:44:28.142 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.142 +11:00 [Information] Balance: 115
+2015-10-17 01:44:28.142 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.142 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.142 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.142 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.142 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.142 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.142 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.142 +11:00 [Information] Player's Balance is now 115
+2015-10-17 01:44:28.143 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 115
+2015-10-17 01:44:28.143 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.143 +11:00 [Information] Balance: 110
+2015-10-17 01:44:28.143 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.143 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.143 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.143 +11:00 [Information] Match!
+2015-10-17 01:44:28.143 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.143 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.143 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.143 +11:00 [Information] Player's Balance is now 120
+2015-10-17 01:44:28.144 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 120
+2015-10-17 01:44:28.144 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.144 +11:00 [Information] Balance: 115
+2015-10-17 01:44:28.144 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.144 +11:00 [Information] Match!
+2015-10-17 01:44:28.144 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.144 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.144 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.144 +11:00 [Information] Match!
+2015-10-17 01:44:28.144 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.144 +11:00 [Information] Player's Balance is now 130
+2015-10-17 01:44:28.145 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 130
+2015-10-17 01:44:28.145 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.145 +11:00 [Information] Balance: 125
+2015-10-17 01:44:28.145 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.145 +11:00 [Information] Match!
+2015-10-17 01:44:28.145 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.145 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.145 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.145 +11:00 [Information] Match!
+2015-10-17 01:44:28.145 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.145 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.145 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 140
+2015-10-17 01:44:28.145 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.145 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.145 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.145 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.145 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.145 +11:00 [Information] Match!
+2015-10-17 01:44:28.146 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.146 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.146 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.146 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.146 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 145
+2015-10-17 01:44:28.147 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.147 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.147 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.147 +11:00 [Information] Match!
+2015-10-17 01:44:28.147 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.147 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.147 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.147 +11:00 [Information] Match!
+2015-10-17 01:44:28.147 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.147 +11:00 [Information] Player's Balance is now 155
+2015-10-17 01:44:28.147 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 155
+2015-10-17 01:44:28.147 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.147 +11:00 [Information] Balance: 150
+2015-10-17 01:44:28.147 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.147 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.147 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.147 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.147 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.147 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.147 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.148 +11:00 [Information] Player's Balance is now 150
+2015-10-17 01:44:28.148 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 150
+2015-10-17 01:44:28.148 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.148 +11:00 [Information] Balance: 145
+2015-10-17 01:44:28.148 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.148 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.148 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.148 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.148 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.148 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.148 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.148 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.149 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 145
+2015-10-17 01:44:28.149 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.149 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.149 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.149 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.149 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.149 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.149 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.149 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.149 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.149 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.149 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 140
+2015-10-17 01:44:28.150 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.150 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.150 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.150 +11:00 [Information] Match!
+2015-10-17 01:44:28.150 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.150 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.150 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.150 +11:00 [Information] Match!
+2015-10-17 01:44:28.150 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.150 +11:00 [Information] Player's Balance is now 150
+2015-10-17 01:44:28.150 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 150
+2015-10-17 01:44:28.150 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.150 +11:00 [Information] Balance: 145
+2015-10-17 01:44:28.151 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.151 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.151 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.151 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.151 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.151 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.151 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.151 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.151 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 145
+2015-10-17 01:44:28.151 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.151 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.151 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.151 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.151 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.151 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.151 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.151 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.151 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.151 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.152 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 140
+2015-10-17 01:44:28.152 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.152 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.152 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.152 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.152 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.152 +11:00 [Information] Match!
+2015-10-17 01:44:28.152 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.152 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.152 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.152 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.153 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 145
+2015-10-17 01:44:28.153 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.153 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.153 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.153 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.153 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.153 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.153 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.153 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.153 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.153 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.154 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 140
+2015-10-17 01:44:28.154 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.154 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.154 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.154 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.154 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.154 +11:00 [Information] Match!
+2015-10-17 01:44:28.154 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.154 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.154 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.154 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.154 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 145
+2015-10-17 01:44:28.154 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.154 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.154 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.154 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.154 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.154 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.155 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.155 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.155 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.155 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.155 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 140
+2015-10-17 01:44:28.155 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.155 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.155 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.155 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.155 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.155 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.155 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.155 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.155 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.155 +11:00 [Information] Player's Balance is now 135
+2015-10-17 01:44:28.156 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 135
+2015-10-17 01:44:28.156 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.156 +11:00 [Information] Balance: 130
+2015-10-17 01:44:28.156 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.156 +11:00 [Information] Match!
+2015-10-17 01:44:28.156 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.156 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.156 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.156 +11:00 [Information] Match!
+2015-10-17 01:44:28.156 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.156 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.157 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 145
+2015-10-17 01:44:28.157 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.157 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.157 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.157 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.157 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.157 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.157 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.157 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.157 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.157 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.157 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 140
+2015-10-17 01:44:28.157 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.157 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.157 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.158 +11:00 [Information] Match!
+2015-10-17 01:44:28.158 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.158 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.158 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.158 +11:00 [Information] Match!
+2015-10-17 01:44:28.158 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.158 +11:00 [Information] Player's Balance is now 150
+2015-10-17 01:44:28.158 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 150
+2015-10-17 01:44:28.158 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.158 +11:00 [Information] Balance: 145
+2015-10-17 01:44:28.158 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.158 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.158 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.158 +11:00 [Information] Match!
+2015-10-17 01:44:28.158 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.159 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.159 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.159 +11:00 [Information] Player's Balance is now 155
+2015-10-17 01:44:28.159 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 155
+2015-10-17 01:44:28.159 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.159 +11:00 [Information] Balance: 150
+2015-10-17 01:44:28.159 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.159 +11:00 [Information] Match!
+2015-10-17 01:44:28.159 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.159 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.159 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.159 +11:00 [Information] Match!
+2015-10-17 01:44:28.159 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.159 +11:00 [Information] Player's Balance is now 165
+2015-10-17 01:44:28.160 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 165
+2015-10-17 01:44:28.160 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.160 +11:00 [Information] Balance: 160
+2015-10-17 01:44:28.160 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.160 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.160 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.160 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.160 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.160 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.160 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.160 +11:00 [Information] Player's Balance is now 160
+2015-10-17 01:44:28.161 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 160
+2015-10-17 01:44:28.161 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.161 +11:00 [Information] Balance: 155
+2015-10-17 01:44:28.161 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.161 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.161 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.161 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.161 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.161 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.161 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.161 +11:00 [Information] Player's Balance is now 155
+2015-10-17 01:44:28.161 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 155
+2015-10-17 01:44:28.161 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.161 +11:00 [Information] Balance: 150
+2015-10-17 01:44:28.162 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.162 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.162 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.162 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.162 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.162 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.162 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.162 +11:00 [Information] Player's Balance is now 150
+2015-10-17 01:44:28.162 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 150
+2015-10-17 01:44:28.162 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.162 +11:00 [Information] Balance: 145
+2015-10-17 01:44:28.162 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.162 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.162 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.162 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.162 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.162 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.162 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.163 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.163 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 145
+2015-10-17 01:44:28.163 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.163 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.163 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.163 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.163 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.163 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.163 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.163 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.163 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.163 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.164 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 140
+2015-10-17 01:44:28.164 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.164 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.164 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.164 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.164 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.164 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.164 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.164 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.164 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.164 +11:00 [Information] Player's Balance is now 135
+2015-10-17 01:44:28.164 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 135
+2015-10-17 01:44:28.164 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.165 +11:00 [Information] Balance: 130
+2015-10-17 01:44:28.165 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.165 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.165 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.165 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.165 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.165 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.165 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.165 +11:00 [Information] Player's Balance is now 130
+2015-10-17 01:44:28.165 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 130
+2015-10-17 01:44:28.165 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.165 +11:00 [Information] Balance: 125
+2015-10-17 01:44:28.165 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.165 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.165 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.165 +11:00 [Information] Match!
+2015-10-17 01:44:28.165 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.165 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.166 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.166 +11:00 [Information] Player's Balance is now 135
+2015-10-17 01:44:28.167 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 135
+2015-10-17 01:44:28.167 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.167 +11:00 [Information] Balance: 130
+2015-10-17 01:44:28.167 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.167 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.167 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.167 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.167 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.167 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.167 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.167 +11:00 [Information] Player's Balance is now 130
+2015-10-17 01:44:28.168 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 130
+2015-10-17 01:44:28.168 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.168 +11:00 [Information] Balance: 125
+2015-10-17 01:44:28.168 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.168 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.168 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.168 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.168 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.168 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.168 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.168 +11:00 [Information] Player's Balance is now 125
+2015-10-17 01:44:28.169 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 125
+2015-10-17 01:44:28.169 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.169 +11:00 [Information] Balance: 120
+2015-10-17 01:44:28.169 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.169 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.169 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.169 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.169 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.169 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.170 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.170 +11:00 [Information] Player's Balance is now 120
+2015-10-17 01:44:28.170 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 120
+2015-10-17 01:44:28.170 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.170 +11:00 [Information] Balance: 115
+2015-10-17 01:44:28.170 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.170 +11:00 [Information] Match!
+2015-10-17 01:44:28.170 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.170 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.170 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.170 +11:00 [Information] Match!
+2015-10-17 01:44:28.170 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.170 +11:00 [Information] Player's Balance is now 130
+2015-10-17 01:44:28.171 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 130
+2015-10-17 01:44:28.171 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.171 +11:00 [Information] Balance: 125
+2015-10-17 01:44:28.171 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.171 +11:00 [Information] Match!
+2015-10-17 01:44:28.171 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.171 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.171 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.171 +11:00 [Information] Match!
+2015-10-17 01:44:28.171 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.171 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.172 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 140
+2015-10-17 01:44:28.172 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.172 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.172 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.172 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.172 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.172 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.172 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.172 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.172 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.172 +11:00 [Information] Player's Balance is now 135
+2015-10-17 01:44:28.173 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 135
+2015-10-17 01:44:28.173 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.173 +11:00 [Information] Balance: 130
+2015-10-17 01:44:28.173 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.173 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.173 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.173 +11:00 [Information] Match!
+2015-10-17 01:44:28.173 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.173 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.173 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.173 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.174 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 140
+2015-10-17 01:44:28.174 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.174 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.174 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.174 +11:00 [Information] Match!
+2015-10-17 01:44:28.174 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.174 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.174 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.174 +11:00 [Information] Match!
+2015-10-17 01:44:28.174 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.174 +11:00 [Information] Player's Balance is now 150
+2015-10-17 01:44:28.175 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 150
+2015-10-17 01:44:28.175 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.175 +11:00 [Information] Balance: 145
+2015-10-17 01:44:28.175 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.175 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.175 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.175 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.175 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.175 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.175 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.175 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.176 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 145
+2015-10-17 01:44:28.176 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.176 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.176 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.176 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.176 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.176 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.176 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.176 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.176 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.176 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.177 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 140
+2015-10-17 01:44:28.177 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.177 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.177 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.177 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.177 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.177 +11:00 [Information] Match!
+2015-10-17 01:44:28.177 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.177 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.177 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.177 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.178 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 145
+2015-10-17 01:44:28.178 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.178 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.178 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.178 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.178 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.178 +11:00 [Information] Match!
+2015-10-17 01:44:28.178 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.178 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.178 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.178 +11:00 [Information] Player's Balance is now 150
+2015-10-17 01:44:28.180 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 150
+2015-10-17 01:44:28.180 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.180 +11:00 [Information] Balance: 145
+2015-10-17 01:44:28.180 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.180 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.180 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.180 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.180 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.180 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.180 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.180 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.181 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 145
+2015-10-17 01:44:28.181 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.181 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.181 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.181 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.181 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.181 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.181 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.181 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.181 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.181 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.181 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 140
+2015-10-17 01:44:28.181 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.181 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.181 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.181 +11:00 [Information] Match!
+2015-10-17 01:44:28.181 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.182 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.182 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.182 +11:00 [Information] Match!
+2015-10-17 01:44:28.182 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.182 +11:00 [Information] Player's Balance is now 150
+2015-10-17 01:44:28.182 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 150
+2015-10-17 01:44:28.182 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.182 +11:00 [Information] Balance: 145
+2015-10-17 01:44:28.182 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.182 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.182 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.182 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.182 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.183 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.183 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.183 +11:00 [Information] Player's Balance is now 145
+2015-10-17 01:44:28.184 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 145
+2015-10-17 01:44:28.184 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.184 +11:00 [Information] Balance: 140
+2015-10-17 01:44:28.184 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.184 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.184 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.184 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.184 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.184 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.184 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.184 +11:00 [Information] Player's Balance is now 140
+2015-10-17 01:44:28.185 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 140
+2015-10-17 01:44:28.185 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.185 +11:00 [Information] Balance: 135
+2015-10-17 01:44:28.185 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.185 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.185 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.185 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.185 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.185 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.185 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.185 +11:00 [Information] Player's Balance is now 135
+2015-10-17 01:44:28.185 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 135
+2015-10-17 01:44:28.185 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.185 +11:00 [Information] Balance: 130
+2015-10-17 01:44:28.185 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.186 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.186 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.186 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.186 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.186 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.186 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.186 +11:00 [Information] Player's Balance is now 130
+2015-10-17 01:44:28.186 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 130
+2015-10-17 01:44:28.186 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.186 +11:00 [Information] Balance: 125
+2015-10-17 01:44:28.186 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.186 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.186 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.186 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.186 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.186 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.186 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.186 +11:00 [Information] Player's Balance is now 125
+2015-10-17 01:44:28.187 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 125
+2015-10-17 01:44:28.187 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.187 +11:00 [Information] Balance: 120
+2015-10-17 01:44:28.187 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.187 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.187 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.187 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.187 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.187 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.187 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.187 +11:00 [Information] Player's Balance is now 120
+2015-10-17 01:44:28.187 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 120
+2015-10-17 01:44:28.187 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.187 +11:00 [Information] Balance: 115
+2015-10-17 01:44:28.188 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.188 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.188 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.188 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.188 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.188 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.188 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.188 +11:00 [Information] Player's Balance is now 115
+2015-10-17 01:44:28.188 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 115
+2015-10-17 01:44:28.188 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.188 +11:00 [Information] Balance: 110
+2015-10-17 01:44:28.188 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.188 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.188 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.188 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.188 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.188 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.188 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.188 +11:00 [Information] Player's Balance is now 110
+2015-10-17 01:44:28.189 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 110
+2015-10-17 01:44:28.189 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.189 +11:00 [Information] Balance: 105
+2015-10-17 01:44:28.189 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.189 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.189 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.189 +11:00 [Information] Match!
+2015-10-17 01:44:28.189 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.189 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.189 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.189 +11:00 [Information] Player's Balance is now 115
+2015-10-17 01:44:28.189 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 115
+2015-10-17 01:44:28.190 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.190 +11:00 [Information] Balance: 110
+2015-10-17 01:44:28.190 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.190 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.190 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.190 +11:00 [Information] Match!
+2015-10-17 01:44:28.190 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.190 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.190 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.190 +11:00 [Information] Player's Balance is now 120
+2015-10-17 01:44:28.190 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 120
+2015-10-17 01:44:28.190 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.190 +11:00 [Information] Balance: 115
+2015-10-17 01:44:28.190 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.190 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.190 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.190 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.190 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.190 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.190 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.191 +11:00 [Information] Player's Balance is now 115
+2015-10-17 01:44:28.191 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 115
+2015-10-17 01:44:28.191 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.191 +11:00 [Information] Balance: 110
+2015-10-17 01:44:28.191 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.191 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.191 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.192 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.192 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.192 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.192 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.192 +11:00 [Information] Player's Balance is now 110
+2015-10-17 01:44:28.192 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 110
+2015-10-17 01:44:28.192 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.192 +11:00 [Information] Balance: 105
+2015-10-17 01:44:28.193 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.193 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.193 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.193 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.193 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.193 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.193 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.193 +11:00 [Information] Player's Balance is now 105
+2015-10-17 01:44:28.193 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 105
+2015-10-17 01:44:28.193 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.193 +11:00 [Information] Balance: 100
+2015-10-17 01:44:28.193 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.194 +11:00 [Information] Match!
+2015-10-17 01:44:28.194 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.194 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.194 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.194 +11:00 [Information] Match!
+2015-10-17 01:44:28.194 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.194 +11:00 [Information] Player's Balance is now 115
+2015-10-17 01:44:28.194 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 115
+2015-10-17 01:44:28.194 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.195 +11:00 [Information] Balance: 110
+2015-10-17 01:44:28.195 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.195 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.195 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.195 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.195 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.195 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.195 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.195 +11:00 [Information] Player's Balance is now 110
+2015-10-17 01:44:28.195 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 110
+2015-10-17 01:44:28.195 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.195 +11:00 [Information] Balance: 105
+2015-10-17 01:44:28.195 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.195 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.195 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.195 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.195 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.195 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.195 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.195 +11:00 [Information] Player's Balance is now 105
+2015-10-17 01:44:28.196 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 105
+2015-10-17 01:44:28.196 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.196 +11:00 [Information] Balance: 100
+2015-10-17 01:44:28.196 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.196 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.196 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.196 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.196 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.196 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.196 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.196 +11:00 [Information] Player's Balance is now 100
+2015-10-17 01:44:28.196 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 100
+2015-10-17 01:44:28.197 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.197 +11:00 [Information] Balance: 95
+2015-10-17 01:44:28.197 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.197 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.197 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.197 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.197 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.197 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.197 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.197 +11:00 [Information] Player's Balance is now 95
+2015-10-17 01:44:28.197 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 95
+2015-10-17 01:44:28.197 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.197 +11:00 [Information] Balance: 90
+2015-10-17 01:44:28.197 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.197 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.197 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.197 +11:00 [Information] Match!
+2015-10-17 01:44:28.197 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.197 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.197 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.198 +11:00 [Information] Player's Balance is now 100
+2015-10-17 01:44:28.198 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 100
+2015-10-17 01:44:28.198 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.198 +11:00 [Information] Balance: 95
+2015-10-17 01:44:28.198 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.198 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.198 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.198 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.198 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.198 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.198 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.198 +11:00 [Information] Player's Balance is now 95
+2015-10-17 01:44:28.199 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 95
+2015-10-17 01:44:28.199 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.199 +11:00 [Information] Balance: 90
+2015-10-17 01:44:28.199 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.199 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.199 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.199 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.199 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.199 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.199 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.199 +11:00 [Information] Player's Balance is now 90
+2015-10-17 01:44:28.199 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 90
+2015-10-17 01:44:28.199 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.199 +11:00 [Information] Balance: 85
+2015-10-17 01:44:28.199 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.199 +11:00 [Information] Match!
+2015-10-17 01:44:28.199 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.199 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.199 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.199 +11:00 [Information] Match!
+2015-10-17 01:44:28.199 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.200 +11:00 [Information] Player's Balance is now 100
+2015-10-17 01:44:28.200 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 100
+2015-10-17 01:44:28.200 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.200 +11:00 [Information] Balance: 95
+2015-10-17 01:44:28.200 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.200 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.200 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.200 +11:00 [Information] Match!
+2015-10-17 01:44:28.200 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.200 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.200 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.200 +11:00 [Information] Player's Balance is now 105
+2015-10-17 01:44:28.201 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 105
+2015-10-17 01:44:28.201 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.201 +11:00 [Information] Balance: 100
+2015-10-17 01:44:28.201 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.201 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.201 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.201 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.201 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.201 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.201 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.201 +11:00 [Information] Player's Balance is now 100
+2015-10-17 01:44:28.201 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 100
+2015-10-17 01:44:28.201 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.201 +11:00 [Information] Balance: 95
+2015-10-17 01:44:28.201 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.201 +11:00 [Information] Match!
+2015-10-17 01:44:28.201 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.202 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.202 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.202 +11:00 [Information] Match!
+2015-10-17 01:44:28.202 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.202 +11:00 [Information] Player's Balance is now 110
+2015-10-17 01:44:28.202 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 110
+2015-10-17 01:44:28.202 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.202 +11:00 [Information] Balance: 105
+2015-10-17 01:44:28.202 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.202 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.202 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.202 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.202 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.202 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.202 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.202 +11:00 [Information] Player's Balance is now 105
+2015-10-17 01:44:28.203 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 105
+2015-10-17 01:44:28.203 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.203 +11:00 [Information] Balance: 100
+2015-10-17 01:44:28.203 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.203 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.203 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.203 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.203 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.203 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.203 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.203 +11:00 [Information] Player's Balance is now 100
+2015-10-17 01:44:28.203 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 100
+2015-10-17 01:44:28.203 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.203 +11:00 [Information] Balance: 95
+2015-10-17 01:44:28.203 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.204 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.204 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.204 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.204 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.204 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.204 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.204 +11:00 [Information] Player's Balance is now 95
+2015-10-17 01:44:28.204 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 95
+2015-10-17 01:44:28.204 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.204 +11:00 [Information] Balance: 90
+2015-10-17 01:44:28.205 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.205 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.205 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.205 +11:00 [Information] Match!
+2015-10-17 01:44:28.205 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.205 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.205 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.205 +11:00 [Information] Player's Balance is now 100
+2015-10-17 01:44:28.205 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 100
+2015-10-17 01:44:28.205 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.205 +11:00 [Information] Balance: 95
+2015-10-17 01:44:28.206 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.206 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.206 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.206 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.206 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.206 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.206 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.206 +11:00 [Information] Player's Balance is now 95
+2015-10-17 01:44:28.206 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 95
+2015-10-17 01:44:28.206 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.206 +11:00 [Information] Balance: 90
+2015-10-17 01:44:28.206 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.206 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.207 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.207 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.207 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.207 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.207 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.207 +11:00 [Information] Player's Balance is now 90
+2015-10-17 01:44:28.207 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 90
+2015-10-17 01:44:28.207 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.207 +11:00 [Information] Balance: 85
+2015-10-17 01:44:28.207 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.207 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.208 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.208 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.208 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.208 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.208 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.208 +11:00 [Information] Player's Balance is now 85
+2015-10-17 01:44:28.208 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 85
+2015-10-17 01:44:28.208 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.209 +11:00 [Information] Balance: 80
+2015-10-17 01:44:28.209 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.209 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.209 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.209 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.209 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.209 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.209 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.209 +11:00 [Information] Player's Balance is now 80
+2015-10-17 01:44:28.209 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 80
+2015-10-17 01:44:28.209 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.209 +11:00 [Information] Balance: 75
+2015-10-17 01:44:28.209 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.209 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.210 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.210 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.210 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.210 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.210 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.210 +11:00 [Information] Player's Balance is now 75
+2015-10-17 01:44:28.210 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 75
+2015-10-17 01:44:28.211 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.211 +11:00 [Information] Balance: 70
+2015-10-17 01:44:28.211 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.211 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.211 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.211 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.211 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.211 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.211 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.211 +11:00 [Information] Player's Balance is now 70
+2015-10-17 01:44:28.212 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 70
+2015-10-17 01:44:28.212 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.212 +11:00 [Information] Balance: 65
+2015-10-17 01:44:28.212 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.212 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.212 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.212 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.212 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.212 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.212 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.212 +11:00 [Information] Player's Balance is now 65
+2015-10-17 01:44:28.213 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 65
+2015-10-17 01:44:28.213 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.213 +11:00 [Information] Balance: 60
+2015-10-17 01:44:28.213 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.213 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.213 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.213 +11:00 [Information] Match!
+2015-10-17 01:44:28.213 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.213 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.213 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.213 +11:00 [Information] Player's Balance is now 70
+2015-10-17 01:44:28.214 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 70
+2015-10-17 01:44:28.214 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.214 +11:00 [Information] Balance: 65
+2015-10-17 01:44:28.214 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.214 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.214 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.214 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.214 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.214 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.214 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.214 +11:00 [Information] Player's Balance is now 65
+2015-10-17 01:44:28.215 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 65
+2015-10-17 01:44:28.215 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.215 +11:00 [Information] Balance: 60
+2015-10-17 01:44:28.215 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.215 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.215 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.215 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.215 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.215 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.215 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.215 +11:00 [Information] Player's Balance is now 60
+2015-10-17 01:44:28.216 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 60
+2015-10-17 01:44:28.216 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.216 +11:00 [Information] Balance: 55
+2015-10-17 01:44:28.216 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.216 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.216 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.216 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.216 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.216 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.216 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.216 +11:00 [Information] Player's Balance is now 55
+2015-10-17 01:44:28.217 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 55
+2015-10-17 01:44:28.217 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.217 +11:00 [Information] Balance: 50
+2015-10-17 01:44:28.217 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.217 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.217 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.217 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.217 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.217 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.217 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.217 +11:00 [Information] Player's Balance is now 50
+2015-10-17 01:44:28.217 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 50
+2015-10-17 01:44:28.218 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.218 +11:00 [Information] Balance: 45
+2015-10-17 01:44:28.218 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.218 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.218 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.218 +11:00 [Information] Match!
+2015-10-17 01:44:28.218 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.218 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.218 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.218 +11:00 [Information] Player's Balance is now 55
+2015-10-17 01:44:28.218 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 55
+2015-10-17 01:44:28.219 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.219 +11:00 [Information] Balance: 50
+2015-10-17 01:44:28.219 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.219 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.219 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.219 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.219 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.219 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.219 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.219 +11:00 [Information] Player's Balance is now 50
+2015-10-17 01:44:28.220 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 50
+2015-10-17 01:44:28.220 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.220 +11:00 [Information] Balance: 45
+2015-10-17 01:44:28.220 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.220 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.220 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.220 +11:00 [Information] Match!
+2015-10-17 01:44:28.220 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.220 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.220 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.220 +11:00 [Information] Player's Balance is now 55
+2015-10-17 01:44:28.220 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 55
+2015-10-17 01:44:28.220 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.221 +11:00 [Information] Balance: 50
+2015-10-17 01:44:28.221 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.221 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.221 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.221 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.221 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.221 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.221 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.221 +11:00 [Information] Player's Balance is now 50
+2015-10-17 01:44:28.221 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 50
+2015-10-17 01:44:28.221 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.221 +11:00 [Information] Balance: 45
+2015-10-17 01:44:28.221 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.221 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.222 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.222 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.222 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.222 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.222 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.222 +11:00 [Information] Player's Balance is now 45
+2015-10-17 01:44:28.222 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 45
+2015-10-17 01:44:28.222 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.222 +11:00 [Information] Balance: 40
+2015-10-17 01:44:28.222 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.222 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.222 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.222 +11:00 [Information] Match!
+2015-10-17 01:44:28.222 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.223 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.223 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.223 +11:00 [Information] Player's Balance is now 50
+2015-10-17 01:44:28.223 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 50
+2015-10-17 01:44:28.223 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.223 +11:00 [Information] Balance: 45
+2015-10-17 01:44:28.223 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.223 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.223 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.223 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.223 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.223 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.223 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.223 +11:00 [Information] Player's Balance is now 45
+2015-10-17 01:44:28.228 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 45
+2015-10-17 01:44:28.228 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.228 +11:00 [Information] Balance: 40
+2015-10-17 01:44:28.228 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.228 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.228 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.228 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.228 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.229 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.229 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.229 +11:00 [Information] Player's Balance is now 40
+2015-10-17 01:44:28.229 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 40
+2015-10-17 01:44:28.229 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.229 +11:00 [Information] Balance: 35
+2015-10-17 01:44:28.229 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.229 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.229 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.229 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.229 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.229 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.229 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.229 +11:00 [Information] Player's Balance is now 35
+2015-10-17 01:44:28.230 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 35
+2015-10-17 01:44:28.230 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.230 +11:00 [Information] Balance: 30
+2015-10-17 01:44:28.230 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.230 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.230 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.230 +11:00 [Information] Match!
+2015-10-17 01:44:28.230 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.230 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.230 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.230 +11:00 [Information] Player's Balance is now 40
+2015-10-17 01:44:28.231 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 40
+2015-10-17 01:44:28.231 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.231 +11:00 [Information] Balance: 35
+2015-10-17 01:44:28.231 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.231 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.231 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.231 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.231 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.231 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.231 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.232 +11:00 [Information] Player's Balance is now 35
+2015-10-17 01:44:28.232 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 35
+2015-10-17 01:44:28.232 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.232 +11:00 [Information] Balance: 30
+2015-10-17 01:44:28.232 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.232 +11:00 [Information] Match!
+2015-10-17 01:44:28.232 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.232 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.232 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.232 +11:00 [Information] Match!
+2015-10-17 01:44:28.232 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.232 +11:00 [Information] Player's Balance is now 45
+2015-10-17 01:44:28.233 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 45
+2015-10-17 01:44:28.233 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.233 +11:00 [Information] Balance: 40
+2015-10-17 01:44:28.233 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.233 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.233 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.233 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.233 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.233 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.233 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.233 +11:00 [Information] Player's Balance is now 40
+2015-10-17 01:44:28.234 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 40
+2015-10-17 01:44:28.234 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.234 +11:00 [Information] Balance: 35
+2015-10-17 01:44:28.234 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.234 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.234 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.234 +11:00 [Information] Match!
+2015-10-17 01:44:28.234 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.234 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.235 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.235 +11:00 [Information] Player's Balance is now 45
+2015-10-17 01:44:28.236 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 45
+2015-10-17 01:44:28.236 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.236 +11:00 [Information] Balance: 40
+2015-10-17 01:44:28.236 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.236 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.236 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.236 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.236 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.236 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.236 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.236 +11:00 [Information] Player's Balance is now 40
+2015-10-17 01:44:28.237 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 40
+2015-10-17 01:44:28.237 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.237 +11:00 [Information] Balance: 35
+2015-10-17 01:44:28.237 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.237 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.237 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.237 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.237 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.237 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.237 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.237 +11:00 [Information] Player's Balance is now 35
+2015-10-17 01:44:28.238 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 35
+2015-10-17 01:44:28.238 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.238 +11:00 [Information] Balance: 30
+2015-10-17 01:44:28.238 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.238 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.238 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.238 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.238 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.238 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.238 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.238 +11:00 [Information] Player's Balance is now 30
+2015-10-17 01:44:28.238 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 30
+2015-10-17 01:44:28.239 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.239 +11:00 [Information] Balance: 25
+2015-10-17 01:44:28.239 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.239 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.239 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.239 +11:00 [Information] Match!
+2015-10-17 01:44:28.239 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.239 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.239 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.239 +11:00 [Information] Player's Balance is now 35
+2015-10-17 01:44:28.241 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 35
+2015-10-17 01:44:28.241 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.241 +11:00 [Information] Balance: 30
+2015-10-17 01:44:28.241 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.241 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.241 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.241 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.241 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.241 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.241 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.241 +11:00 [Information] Player's Balance is now 30
+2015-10-17 01:44:28.245 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 30
+2015-10-17 01:44:28.245 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.245 +11:00 [Information] Balance: 25
+2015-10-17 01:44:28.245 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.245 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.245 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.245 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.245 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.245 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.245 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.245 +11:00 [Information] Player's Balance is now 25
+2015-10-17 01:44:28.248 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 25
+2015-10-17 01:44:28.248 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.248 +11:00 [Information] Balance: 20
+2015-10-17 01:44:28.248 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.248 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.248 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.248 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.248 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.248 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.248 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.248 +11:00 [Information] Player's Balance is now 20
+2015-10-17 01:44:28.250 +11:00 [Information] Player "Fred" has bet 5 on DIAMOND	Balance: 20
+2015-10-17 01:44:28.250 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.250 +11:00 [Information] Balance: 15
+2015-10-17 01:44:28.250 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.250 +11:00 [Information] Match!
+2015-10-17 01:44:28.250 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.250 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.250 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.250 +11:00 [Information] Match!
+2015-10-17 01:44:28.250 +11:00 [Information] Winnings are 10
+2015-10-17 01:44:28.250 +11:00 [Information] Player's Balance is now 30
+2015-10-17 01:44:28.250 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 30
+2015-10-17 01:44:28.250 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.250 +11:00 [Information] Balance: 25
+2015-10-17 01:44:28.251 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.251 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.251 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.251 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.251 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.251 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.251 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.251 +11:00 [Information] Player's Balance is now 25
+2015-10-17 01:44:28.253 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 25
+2015-10-17 01:44:28.253 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.253 +11:00 [Information] Balance: 20
+2015-10-17 01:44:28.254 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.254 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.254 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.254 +11:00 [Information] Match!
+2015-10-17 01:44:28.254 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.254 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.254 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.254 +11:00 [Information] Player's Balance is now 30
+2015-10-17 01:44:28.255 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 30
+2015-10-17 01:44:28.255 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.255 +11:00 [Information] Balance: 25
+2015-10-17 01:44:28.255 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.255 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.255 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.255 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.255 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.255 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.256 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.256 +11:00 [Information] Player's Balance is now 25
+2015-10-17 01:44:28.256 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 25
+2015-10-17 01:44:28.256 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.256 +11:00 [Information] Balance: 20
+2015-10-17 01:44:28.256 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.256 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.256 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.256 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.256 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.256 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.257 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.257 +11:00 [Information] Player's Balance is now 20
+2015-10-17 01:44:28.257 +11:00 [Information] Player "Fred" has bet 5 on CLUB	Balance: 20
+2015-10-17 01:44:28.257 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.257 +11:00 [Information] Balance: 15
+2015-10-17 01:44:28.257 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.257 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.257 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.257 +11:00 [Information] Match!
+2015-10-17 01:44:28.258 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.258 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.258 +11:00 [Information] Winnings are 5
+2015-10-17 01:44:28.258 +11:00 [Information] Player's Balance is now 25
+2015-10-17 01:44:28.258 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 25
+2015-10-17 01:44:28.258 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.258 +11:00 [Information] Balance: 20
+2015-10-17 01:44:28.259 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.259 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.259 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.259 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.259 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.259 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.259 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.259 +11:00 [Information] Player's Balance is now 20
+2015-10-17 01:44:28.259 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 20
+2015-10-17 01:44:28.259 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.259 +11:00 [Information] Balance: 15
+2015-10-17 01:44:28.259 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.259 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.259 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.259 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.259 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.259 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.260 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.260 +11:00 [Information] Player's Balance is now 15
+2015-10-17 01:44:28.260 +11:00 [Information] Player "Fred" has bet 5 on ANCHOR	Balance: 15
+2015-10-17 01:44:28.260 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.260 +11:00 [Information] Balance: 10
+2015-10-17 01:44:28.260 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.260 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.260 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.261 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.261 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.261 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.261 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.261 +11:00 [Information] Player's Balance is now 10
+2015-10-17 01:44:28.261 +11:00 [Information] Player "Fred" has bet 5 on HEART	Balance: 10
+2015-10-17 01:44:28.261 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.261 +11:00 [Information] Balance: 5
+2015-10-17 01:44:28.261 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.261 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.261 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.261 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.261 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.261 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.261 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.261 +11:00 [Information] Player's Balance is now 5
+2015-10-17 01:44:28.262 +11:00 [Information] Player "Fred" has bet 5 on CROWN	Balance: 5
+2015-10-17 01:44:28.262 +11:00 [Information] Deducting bet
+2015-10-17 01:44:28.262 +11:00 [Information] Balance: 0
+2015-10-17 01:44:28.262 +11:00 [Information] Dice 0 is a DIAMOND
+2015-10-17 01:44:28.262 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.262 +11:00 [Information] Dice 1 is a CLUB
+2015-10-17 01:44:28.262 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.262 +11:00 [Information] Dice 2 is a DIAMOND
+2015-10-17 01:44:28.262 +11:00 [Information] Not a Match!
+2015-10-17 01:44:28.262 +11:00 [Information] Winnings are 0
+2015-10-17 01:44:28.262 +11:00 [Information] Player's Balance is now 0
