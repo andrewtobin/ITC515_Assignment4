@@ -70,7 +70,7 @@ namespace CrownAndAnchorGame
 
             for (int i = 0; i < 100; i++)
             {
-                winCount = PlayGame(bet, game, player, ref pick, i, winCount, ref loseCount);
+                PlayGame(bet, game, player, ref pick, i, ref winCount, ref loseCount);
             } //for
 
             Console.WriteLine("Win count = {0}, Lose Count = {1}, {2:0.00}", winCount, loseCount,
@@ -85,7 +85,7 @@ namespace CrownAndAnchorGame
             return false;
         }
 
-        internal static int PlayGame(int bet, Game game, Player player, ref DiceValue pick, int currentGame, int winCount, ref int loseCount)
+        internal static void PlayGame(int bet, Game game, Player player, ref DiceValue pick, int currentGame, ref int winCount, ref int loseCount)
         {
             Console.Write("Start Game {0}: ", currentGame);
             Console.WriteLine("{0} starts with balance {1}", player.Name, player.Balance);
@@ -96,7 +96,7 @@ namespace CrownAndAnchorGame
             {
                 try
                 {
-                    winCount = PlayRound(bet, game, pick, winCount, ref loseCount, player);
+                    PlayRound(bet, game, player, pick, ref winCount, ref loseCount);
                 }
                 catch (ArgumentException e)
                 {
@@ -109,10 +109,9 @@ namespace CrownAndAnchorGame
 
             Console.Write("{1} turns later.\nEnd Game {0}: ", turn, currentGame);
             Console.WriteLine("{0} now has balance {1}\n", player.Name, player.Balance);
-            return winCount;
         }
 
-        internal static int PlayRound(int bet, Game game, DiceValue pick, int winCount, ref int loseCount, Player player)
+        internal static void PlayRound(int bet, Game game, Player player, DiceValue pick, ref int winCount, ref int loseCount)
         {
             var winnings = game.playRound(player, pick, bet);
             var currentDiceValues = game.CurrentDiceValues;
@@ -128,8 +127,6 @@ namespace CrownAndAnchorGame
                 Console.WriteLine("{0} lost {1} balance now {2}", player.Name, bet, player.Balance);
                 loseCount++;
             }
-
-            return winCount;
         }
     }
 }
