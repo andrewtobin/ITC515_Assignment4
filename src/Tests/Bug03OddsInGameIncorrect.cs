@@ -95,5 +95,38 @@ namespace Tests
 
             Assert.Equal(6, faces.Count);
         }
+
+        [Fact]
+        public void WhenDiceRolledValueShouldReflectNewRoll()
+        {
+            var die1 = new Dice();
+            var die2 = new Dice();
+            var die3 = new Dice();
+
+            int bet = 5;
+
+            int winCount = 0;
+            int loseCount = 0;
+
+            var pick = Dice.RandomValue;
+            var player = new Player("Test", 100);
+
+            var game = new Game(die1, die2, die3);
+
+            game.playRound(player, pick, bet);
+
+            var newDie1Value = die1.roll();
+            var newDie2Value = die2.roll();
+            var newDie3Value = die3.roll();
+
+            Assert.Equal(die1.CurrentValue, game.values[0]);
+            Assert.Equal(die2.CurrentValue, game.values[1]);
+            Assert.Equal(die3.CurrentValue, game.values[2]);
+
+            Assert.Equal(newDie1Value, die1.CurrentValue);
+            Assert.Equal(newDie2Value, die2.CurrentValue);
+            Assert.Equal(newDie3Value, die3.CurrentValue);
+        }
+
     }
 }
