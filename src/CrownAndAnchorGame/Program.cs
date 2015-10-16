@@ -66,9 +66,11 @@ namespace CrownAndAnchorGame
             int winCount = 0;
             int loseCount = 0;
 
+            var player = new Player("Fred", 100);
+
             for (int i = 0; i < 100; i++)
             {
-                winCount = PlayGame(bet, game, ref pick, i, winCount, ref loseCount);
+                winCount = PlayGame(bet, game, player, ref pick, i, winCount, ref loseCount);
             } //for
 
             Console.WriteLine("Win count = {0}, Lose Count = {1}, {2:0.00}", winCount, loseCount,
@@ -83,10 +85,8 @@ namespace CrownAndAnchorGame
             return false;
         }
 
-        internal static int PlayGame(int bet, Game game, ref DiceValue pick, int currentGame, int winCount, ref int loseCount)
+        internal static int PlayGame(int bet, Game game, Player player, ref DiceValue pick, int currentGame, int winCount, ref int loseCount)
         {
-            var player = new Player("Fred", 100);
-
             Console.Write("Start Game {0}: ", currentGame);
             Console.WriteLine("{0} starts with balance {1}", player.Name, player.Balance);
 
