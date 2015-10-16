@@ -15,13 +15,13 @@ namespace Tests
         [Fact]
         public void BroadTestForUserPayoutOnSingleMatch()
         {
-            var die1 = Substitute.For<Dice>();
-            var die2 = Substitute.For<Dice>();
-            var die3 = Substitute.For<Dice>();
+            var die1 = Substitute.For<IDice>();
+            var die2 = Substitute.For<IDice>();
+            var die3 = Substitute.For<IDice>();
 
-            die1.currentValue = DiceValue.ANCHOR;
-            die2.currentValue = DiceValue.HEART;
-            die3.currentValue = DiceValue.HEART;
+            die1.roll().Returns(DiceValue.ANCHOR);
+            die2.roll().Returns(DiceValue.HEART);
+            die3.roll().Returns(DiceValue.HEART);
 
             DiceValue pick = DiceValue.ANCHOR;
             int bet = 10;

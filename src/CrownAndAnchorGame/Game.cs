@@ -11,8 +11,7 @@ namespace CrownAndAnchorGame
 {
     public class Game
     {
-        internal readonly List<Dice> dice;
-        internal readonly List<DiceValue> values;
+        internal readonly List<IDice> dice;
 
         internal Dictionary<DiceValue, int> RollCount = new Dictionary<DiceValue, int>();
         internal Dictionary<DiceValue, int> PickCount = new Dictionary<DiceValue, int>();
@@ -20,22 +19,16 @@ namespace CrownAndAnchorGame
 
         public IList<DiceValue> CurrentDiceValues
         {
-            get { return values.AsReadOnly(); }
+            get { return dice.Select(d => d.CurrentValue).ToList().AsReadOnly(); }
         }
 
 
-        public Game(Dice die1, Dice die2, Dice die3)
+        public Game(IDice die1, IDice die2, IDice die3)
         {
-            dice = new List<Dice>();
-            values = new List<DiceValue>();
+            dice = new List<IDice>();
             dice.Add(die1);
             dice.Add(die2);
             dice.Add(die3);
-
-            foreach (var die in dice)
-            {
-                values.Add(die.CurrentValue);
-            }
         }
 
         public int playRound(Player player, DiceValue pick, int bet)
@@ -59,13 +52,13 @@ namespace CrownAndAnchorGame
             int matches = 0;
             for (int i = 0; i < dice.Count; i++)
             {
-                dice[i].roll();
-                Log.Information("Dice {Number} is a {Roll}", i, values[i]);
+                var value = dice[i].roll();
+                Log.Information("Dice {Number} is a {Roll}", i, value);
 
-                if (!this.RollCount.ContainsKey(values[i])) this.RollCount.Add(values[i], 0);
-                this.RollCount[values[i]]++; // Increment counter for roll count for DiceValue
+                if (!this.RollCount.ContainsKey(value)) this.RollCount.Add(value, 0);
+                this.RollCount[value]++; // Increment counter for roll count for DiceValue
 
-                if (values[i].Equals(pick))
+                if (value.Equals(pick))
                 {
                     matches += 1;
                     Log.Information("Match!");

@@ -22,33 +22,20 @@
       <Property Name="RandomValue" />
       <Property Name="CurrentValue" />
     </ShowAsAssociation>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="CrownAndAnchorGame.Game">
     <Position X="4.5" Y="0.5" Width="1.5" />
-    <AssociationLine Name="dice" Type="CrownAndAnchorGame.Dice" FixedFromPoint="true" FixedToPoint="true">
-      <Path>
-        <Point X="4.969" Y="2.44" />
-        <Point X="4.969" Y="3.062" />
-        <Point X="4" Y="3.062" />
-      </Path>
-    </AssociationLine>
-    <AssociationLine Name="values" Type="CrownAndAnchorGame.DiceValue">
-      <MemberNameLabel ManuallyPlaced="true">
-        <Position X="-0.671" Y="0.289" />
-      </MemberNameLabel>
-    </AssociationLine>
     <AssociationLine Name="CurrentDiceValues" Type="CrownAndAnchorGame.DiceValue">
       <MemberNameLabel ManuallyPlaced="true">
         <Position X="0.008" Y="0.277" />
       </MemberNameLabel>
     </AssociationLine>
     <TypeIdentifier>
-      <HashCode>AQAAAAAAAAAAAAEAAAAAAAQAAAAAACAAAIAAQAAAAAA=</HashCode>
+      <HashCode>AQAAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAIAAQAAAAAA=</HashCode>
       <FileName>Game.cs</FileName>
     </TypeIdentifier>
     <ShowAsCollectionAssociation>
-      <Field Name="dice" />
-      <Field Name="values" />
       <Property Name="CurrentDiceValues" />
     </ShowAsCollectionAssociation>
   </Class>

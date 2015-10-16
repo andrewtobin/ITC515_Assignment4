@@ -67,19 +67,19 @@ namespace Tests
 
             foreach(var face in Enum.GetValues(typeof(DiceValue)))
             {
-                Assert.Contains(face, game.PickCount.Keys.Select(k => k.ToString()));
-                Assert.Contains(face, game.RollCount.Keys.Select(k => k.ToString()));
+                Assert.Contains(face.ToString(), game.PickCount.Keys.Select(k => k.ToString()));
+                Assert.Contains(face.ToString(), game.RollCount.Keys.Select(k => k.ToString()));
             }
 
             // Make sure that each face has come up in 100 games.
             Assert.Equal(6, game.PickCount.Keys.Count);
             Assert.Equal(6, game.RollCount.Keys.Count);
 
-            Assert.InRange(game.PickCount.Values.Min(), 100/6 - 5, 100/6 + 5);
-            Assert.InRange(game.PickCount.Values.Max(), 100 / 6 - 5, 100 / 6 + 5);
+            Assert.InRange(game.PickCount.Values.Min(), 100/6 - 10, 100/6 + 10);
+            Assert.InRange(game.PickCount.Values.Max(), 100 / 6 - 10, 100 / 6 + 10);
 
-            Assert.InRange(game.RollCount.Values.Min(), 300 / 6 - 15, 300 / 6 + 15);
-            Assert.InRange(game.RollCount.Values.Max(), 300 / 6 - 15, 300 / 6 + 15);
+            Assert.InRange(game.RollCount.Values.Min(), 300 / 6 - 30, 300 / 6 + 30);
+            Assert.InRange(game.RollCount.Values.Max(), 300 / 6 - 30, 300 / 6 + 30);
         }
 
         [Fact]
@@ -119,9 +119,9 @@ namespace Tests
             var newDie2Value = die2.roll();
             var newDie3Value = die3.roll();
 
-            Assert.Equal(die1.CurrentValue, game.values[0]);
-            Assert.Equal(die2.CurrentValue, game.values[1]);
-            Assert.Equal(die3.CurrentValue, game.values[2]);
+            Assert.Equal(die1.CurrentValue, game.CurrentDiceValues[0]);
+            Assert.Equal(die2.CurrentValue, game.CurrentDiceValues[1]);
+            Assert.Equal(die3.CurrentValue, game.CurrentDiceValues[2]);
 
             Assert.Equal(newDie1Value, die1.CurrentValue);
             Assert.Equal(newDie2Value, die2.CurrentValue);

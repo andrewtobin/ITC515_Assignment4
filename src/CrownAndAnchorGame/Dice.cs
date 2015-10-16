@@ -11,7 +11,7 @@ namespace CrownAndAnchorGame
         CROWN, ANCHOR, HEART, DIAMOND, CLUB, SPADE
     }
 
-    public class Dice
+    public class Dice : IDice
     {
         private static readonly Random RANDOM = new Random();
         public static readonly Array VALUES = Enum.GetValues(typeof(DiceValue));
@@ -59,7 +59,8 @@ namespace CrownAndAnchorGame
 
         public DiceValue roll()
         {
-            return RandomValue;
+            this.currentValue = RandomValue;
+            return CurrentValue;
         }
 
     }

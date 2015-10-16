@@ -55,6 +55,7 @@ namespace CrownAndAnchorGame
                     if (ans.Equals("q")) break;
                 } //while true
 
+                Log.Information("Overall win rate = {Rate}%", (float)(totalWins * 100) / (totalWins + totalLosses));
                 Console.WriteLine("Overall win rate = {0}%", (float)(totalWins * 100) / (totalWins + totalLosses));
                 Console.ReadLine();
             }
@@ -76,6 +77,9 @@ namespace CrownAndAnchorGame
                 PlayGame(bet, game, player, ref pick, i, ref winCount, ref loseCount);
             } //for
 
+
+            Log.Information("Win count = {Wins}, Lose Count = {Losses}, {Rate}", winCount, loseCount,
+                (float)winCount / (winCount + loseCount));
             Console.WriteLine("Win count = {0}, Lose Count = {1}, {2:0.00}", winCount, loseCount,
                 (float) winCount/(winCount + loseCount));
 
