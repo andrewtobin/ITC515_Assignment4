@@ -37,5 +37,62 @@ namespace Tests
 
             Assert.Equal(0, player.Balance);
         }
+
+        [Fact]
+        public void TakesBetWhenBalanceExceedsBet()
+        {
+            var player = new Player("Test", 10) { Limit = 0 };
+            player.takeBet(5);
+
+            // Check bet was taken and error wasn't thrown.
+            Assert.Equal(5, player.Balance);
+        }
+
+        [Fact]
+        public void TakesBetWhenBalanceEqualsBet()
+        {
+            var player = new Player("Test", 5) { Limit = 0 };
+            player.takeBet(5);
+
+            // Check bet was taken and error wasn't thrown.
+            Assert.Equal(0, player.Balance);
+        }
+
+        [Fact]
+        public void TakeBetThrowsExceptionWhenBetExceedsBalance()
+        {
+            var player = new Player("Test", 0) { Limit = 0 };
+            Assert.Throws<ArgumentException>(() => player.takeBet(5));
+        }
+
+        [Fact]
+        public void BalanceExceedsLimitByReturnsFalseWhenBalanceDoesNotExceedBetLimit()
+        {
+            var player = new Player("Test", 10) { Limit = 0 };
+
+            var response = player.balanceExceedsLimitBy(15);
+
+            Assert.False(response);
+        }
+
+        [Fact]
+        public void BalanceExceedsLimitByReturnsTrueWhenBalanceExceedsBetLimit()
+        {
+            var player = new Player("Test", 10) { Limit = 0 };
+
+            var response = player.balanceExceedsLimitBy(5);
+
+            Assert.True(response);
+        }
+
+        [Fact]
+        public void BalanceExceedsLimitByReturnsFalseOnEqual()
+        {
+            var player = new Player("Test", 5);
+
+            var response = player.balanceExceedsLimitBy(5);
+
+            Assert.True(response);
+        }
     }
 }
