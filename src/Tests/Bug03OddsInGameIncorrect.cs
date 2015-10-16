@@ -74,7 +74,26 @@ namespace Tests
             // Make sure that each face has come up in 100 games.
             Assert.Equal(6, game.PickCount.Keys.Count);
             Assert.Equal(6, game.RollCount.Keys.Count);
+
+            Assert.InRange(game.PickCount.Values.Min(), 100/6 - 5, 100/6 + 5);
+            Assert.InRange(game.PickCount.Values.Max(), 100 / 6 - 5, 100 / 6 + 5);
+
+            Assert.InRange(game.RollCount.Values.Min(), 300 / 6 - 15, 300 / 6 + 15);
+            Assert.InRange(game.RollCount.Values.Max(), 300 / 6 - 15, 300 / 6 + 15);
         }
 
+        [Fact]
+        public void DiceReturnsAllSixFaces()
+        {
+            var faces = new HashSet<DiceValue>();
+
+            for (int i = 0; i < 100; i++)
+            {
+                var face = Dice.RandomValue;
+                if (!faces.Contains(face)) faces.Add(face);
+            }
+
+            Assert.Equal(6, faces.Count);
+        }
     }
 }
