@@ -30,10 +30,16 @@ namespace Tests
             int winCount = 0;
             int loseCount = 0;
 
-            var player = new Player("Test", funds) { Limit = 0 };
+            Player player;
             var game = new Game(die1, die2, die3);
 
-            Program.PlayGame(bet, game, player, ref pick, 1, ref winCount,  ref loseCount);
+            do
+            {
+                player = new Player("Test", funds) {Limit = 0};
+
+                Program.PlayGame(bet, game, player, ref pick, 1, ref winCount, ref loseCount);
+
+            } while (player.Balance >= 200); // Repeat test if it breaks bank at $200.
 
             Assert.Equal(0, player.Balance);
         }

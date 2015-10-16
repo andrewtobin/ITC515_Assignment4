@@ -66,6 +66,7 @@
   <ItemGroup>
     <Compile Include="Bug01PayoutOnSingleMatch.cs" />
     <Compile Include="Bug02PlayerCannotReachBettingLimit.cs" />
+    <Compile Include="Bug03OddsInGameIncorrect.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
