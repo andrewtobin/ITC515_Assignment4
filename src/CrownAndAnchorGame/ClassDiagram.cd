@@ -27,7 +27,7 @@
     <Position X="4.5" Y="0.5" Width="1.5" />
     <AssociationLine Name="dice" Type="CrownAndAnchorGame.Dice" FixedFromPoint="true" FixedToPoint="true">
       <Path>
-        <Point X="4.969" Y="1.796" />
+        <Point X="4.969" Y="2.44" />
         <Point X="4.969" Y="3.062" />
         <Point X="4" Y="3.062" />
       </Path>
@@ -43,7 +43,7 @@
       </MemberNameLabel>
     </AssociationLine>
     <TypeIdentifier>
-      <HashCode>AQAAAAAAAAAAAAAAAAAAAAQAAAAAACAAAAAAQAAAAAA=</HashCode>
+      <HashCode>AQAAAAAAAAAAAAEAAAAAAAQAAAAAACAAAIAAQAAAAAA=</HashCode>
       <FileName>Game.cs</FileName>
     </TypeIdentifier>
     <ShowAsCollectionAssociation>

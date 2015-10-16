@@ -14,6 +14,10 @@ namespace CrownAndAnchorGame
         internal readonly List<Dice> dice;
         internal readonly List<DiceValue> values;
 
+        internal Dictionary<DiceValue, int> RollCount = new Dictionary<DiceValue, int>();
+        internal Dictionary<DiceValue, int> PickCount = new Dictionary<DiceValue, int>();
+
+
         public IList<DiceValue> CurrentDiceValues
         {
             get { return values.AsReadOnly(); }
@@ -45,6 +49,9 @@ namespace CrownAndAnchorGame
             if (player == null) throw new ArgumentException("Pick cannot be null");
             if (bet < 0) throw new ArgumentException("Bet cannot be negative");
 
+            if (!this.PickCount.ContainsKey(pick)) this.PickCount.Add(pick, 0);
+            this.PickCount[pick]++; // Increment counter for pick count for DiceValue
+
             Log.Information("Deducting bet");
             player.takeBet(bet);
             Log.Information("Balance: {Balance}", player.Balance);
@@ -54,6 +61,10 @@ namespace CrownAndAnchorGame
             {
                 dice[i].roll();
                 Log.Information("Dice {Number} is a {Roll}", i, values[i]);
+
+                if (!this.RollCount.ContainsKey(values[i])) this.RollCount.Add(values[i], 0);
+                this.RollCount[values[i]]++; // Increment counter for roll count for DiceValue
+
                 if (values[i].Equals(pick))
                 {
                     matches += 1;

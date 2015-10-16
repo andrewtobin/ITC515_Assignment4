@@ -49,7 +49,10 @@ namespace CrownAndAnchorGame
 
                 while (true)
                 {
-                    if (Play100Games(bet, game, ref pick, ref totalWins, ref totalLosses)) break;
+                    Play100Games(bet, game, ref pick, ref totalWins, ref totalLosses);
+
+                    string ans = Console.ReadLine();
+                    if (ans.Equals("q")) break;
                 } //while true
 
                 Console.WriteLine("Overall win rate = {0}%", (float)(totalWins * 100) / (totalWins + totalLosses));
@@ -61,7 +64,7 @@ namespace CrownAndAnchorGame
             }
         }
 
-        internal static bool Play100Games(int bet, Game game, ref DiceValue pick, ref int totalWins, ref int totalLosses)
+        internal static void Play100Games(int bet, Game game, ref DiceValue pick, ref int totalWins, ref int totalLosses)
         {
             int winCount = 0;
             int loseCount = 0;
@@ -78,11 +81,6 @@ namespace CrownAndAnchorGame
 
             totalWins += winCount;
             totalLosses += loseCount;
-
-            string ans = Console.ReadLine();
-            if (ans.Equals("q")) return true;
-
-            return false;
         }
 
         internal static void PlayGame(int bet, Game game, Player player, ref DiceValue pick, int currentGame, ref int winCount, ref int loseCount)

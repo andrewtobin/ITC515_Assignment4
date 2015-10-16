@@ -16,7 +16,7 @@ namespace CrownAndAnchorGame
         private static readonly Random RANDOM = new Random();
         public static readonly Array VALUES = Enum.GetValues(typeof(DiceValue));
 
-        private static readonly Dictionary<DiceValue, string> VALUE_REPR_MAP =
+        internal static readonly Dictionary<DiceValue, string> VALUE_REPR_MAP =
             new Dictionary<DiceValue, string>() { 
                 { DiceValue.CROWN,"Crown"}, 
                 { DiceValue.ANCHOR,"Anchor"}, 
